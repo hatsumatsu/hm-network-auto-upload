@@ -7,6 +7,8 @@ Description: Automatically copies and attachs files uploaded to one site to all 
 Plugin URI:
 Author: Martin Wecke, HATSUMATSU
 Author URI: http://hatsumatsu.de/
+GitHub Plugin URI: https://github.com/hatsumatsu/hm-network-auto-upload
+GitHub Branch:     releases
 */
 
 
