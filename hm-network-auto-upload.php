@@ -2,13 +2,13 @@
 
 /*
 Plugin Name: HM Network Auto Upload
-Version: 0.1
+Version: 0.11
 Description: Automatically copies and attachs files uploaded to one site to all other sites in the network
 Plugin URI:
 Author: Martin Wecke, HATSUMATSU
 Author URI: http://hatsumatsu.de/
 GitHub Plugin URI: https://github.com/hatsumatsu/hm-network-auto-upload
-GitHub Branch:     master
+GitHub Branch: master
 */
 
 
