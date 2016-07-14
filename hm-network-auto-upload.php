@@ -3,7 +3,7 @@
 /*
 Plugin Name: HM Network Auto Upload
 Version: 0.12
-Description: Automatically copies and attachs files uploaded to one site to all other sites in the network
+Description: Automatically copies and attaches files uploaded to one site to all other sites in the network.
 Plugin URI:
 Author: Martin Wecke, HATSUMATSU
 Author URI: http://hatsumatsu.de/
